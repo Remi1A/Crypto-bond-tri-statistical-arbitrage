@@ -1,4 +1,4 @@
-# Tri-Arbitrage Rotator — BTC, ETH & US 30Y
+# Tri-statistical-Arbitrage — BTC, ETH & US 30Y
 
 This project implements a **rotating tri-arbitrage backtest** between **BTC**, **ETH** and the **US 30Y Treasury yield**.  
 For each asset chosen as the *target*, the two others are used as *hedges*.
